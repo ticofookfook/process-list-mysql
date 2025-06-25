@@ -1,4 +1,4 @@
 # Uso:
-# python3 clean_monitor.py
-# python3 clean_monitor.py --duration 600
-# python3 clean_monitor.py --host 10.0.0.100 --user myuser --password mypass
+python3 pentest-db-mysql-mariadb.py
+python3 pentest-db-mysql-mariadb.py --duration 600
+python3 pentest-db-mysql-mariadb.py --host 10.0.0.100 --user myuser --password mypass
